@@ -1,6 +1,7 @@
 # 将result文件夹中的文件名称写到./txt_name/name.txt中
 import os
 
+
 def test1(txt_name):
     def getFilePathList(path, filetype):
         pathList = []
