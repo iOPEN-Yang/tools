@@ -15,16 +15,16 @@ There are some tools in this project.
 pip install -r requirements.txt
 ```
 3. Testing  
-For test1.py:
-```
-python test1.py
-```
-For test2.py
-```
-python test2.py
-```
-For test3.py
-```
-python test3.py
-```
+   For test1.py:
+   ```
+   python test1.py
+   ```
+   For test2.py:
+   ```
+   python test2.py
+   ```
+   For test3.py:
+   ```
+   python test3.py
+   ```
 
