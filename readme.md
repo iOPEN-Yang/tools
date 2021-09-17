@@ -33,11 +33,3 @@ There are some tools in this project.
     >```
     >python test3.py
     >```
-```commandline
-python test1.py
-```
-```python
-sum = 0
-for i in range(5)
-    sum += sum
-```
