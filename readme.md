@@ -12,7 +12,7 @@ There are some tools in this project.
 ## Quick start 
 ### Installation
 1. install pytorch >= v1.4.0 following [official instruction](https://pytorch.org/).
-    - **tested with pytorch v1.9.0**
+    >- **tested with pytorch v1.9.0**
 
 2. install dependencies:
     >```
