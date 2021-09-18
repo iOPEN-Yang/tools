@@ -48,4 +48,4 @@ There are some tools in this project.
     >```
 创建脚注格式 [^test]  
 
-[^test] : 菜鸟教程
+[^test]:菜鸟教程
