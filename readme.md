@@ -46,5 +46,5 @@ There are some tools in this project.
     >--txt_name name.txt \
     >--suffix txt
     >```
-创建脚注格式 [^test]
+创建脚注格式 [^test]  
 [^test] : 菜鸟教程
