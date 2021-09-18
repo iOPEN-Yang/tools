@@ -12,7 +12,6 @@ def getFilePathList(path, filetype):
     return pathList  # 输出以filetype为后缀的列表
 
 
-
 def test3(source_folder, dis_folder, txt_name, suffix):
     # 源文件夹名称，目标文件夹名称，目标文件名，后缀
     # souece_folder 源文件夹名称，要从这个文件夹中提取所有后缀为suffix的文件名称以及路径
