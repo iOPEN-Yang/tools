@@ -5,7 +5,7 @@
 + [2021/09/17] add test2.py. 实现最小二乘法
 + [2021/09/17] add test3.py. 读取source_folder文件夹下所有suffix后缀的文件名称，
   将名称以及路径读取到dis_floder文件夹下的txt_name文件中。
-+ [2021/09/18] add test3.py. 从命令行获取参数，调用test3.py
++ [2021/09/18] add test4.py. 从命令行获取参数，调用test3.py
   
 ## Introduction
 There are some tools in this project.
@@ -46,5 +46,5 @@ There are some tools in this project.
     >--txt_name name.txt \
     >--suffix txt
     >```
-创建脚注格式 [test].  
-[test]: http://www.baidu.com
+
+
