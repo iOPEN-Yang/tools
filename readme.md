@@ -45,4 +45,6 @@ There are some tools in this project.
     >--dis_folder  txt_name \
     >--txt_name name.txt \
     >--suffix txt
-    >``` 
+    >```
+创建脚注格式 [^test]
+[^test] : 菜鸟教程
