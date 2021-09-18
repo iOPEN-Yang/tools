@@ -42,7 +42,7 @@ There are some tools in this project.
     >```commandline
     >python test4.py \
     >--source_folder result \
-    >--dis_folder  txt_name\
+    >--dis_folder  txt_name \
     >--txt_name name.txt \
     >--suffix txt
     >``` 
